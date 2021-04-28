@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="sintex's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sin-tex&show_icons=true&hide_border=true" />
+  <img align="center" alt="sintex's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sin-tex&show_icons=true&hide_border=true" />
 
 </details>
