@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning HTML, CSS, JavaScript and PHP
+- 🌱 I’m currently learning c++
 - 💬 Ask me about anything
 - 📫 How to reach me: Discord: sintex#5566
 - ⚡ Fun fact: I'm from Germany
