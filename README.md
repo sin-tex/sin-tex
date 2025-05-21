@@ -33,7 +33,7 @@
   <img width="12"/>
   <img src="https://github.com/user-attachments/assets/e4bd419a-2a4a-459a-ba9a-d3324e693c4d" height="40"/>
   <img width="12"/>
-  <img src="https://cdn.simpleicons.org/opengl/5586A4" height="40"/>
+  <img src="https://cdn.simpleicons.org/opengl/5586A" height="40"/>
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img width="12"/>
